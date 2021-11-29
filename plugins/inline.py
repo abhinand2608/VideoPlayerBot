@@ -7,8 +7,8 @@ from logger import LOGGER
 
 buttons = [
     [
-        InlineKeyboardButton('🐝 Join Here', url='https://t.me/honeybeemovies'),
-        InlineKeyboardButton('Updates 🎬', url='https://t.me/malluflix'),
+        InlineKeyboardButton(' Join Here 🥂', url='https://t.me/thefilmyspotin'),
+        InlineKeyboardButton('Admin 😌😼', url='https://t.me/AbhiNand3510'),
     ]
     ]
 def get_cmd(dur):
