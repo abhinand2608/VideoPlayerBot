@@ -13,8 +13,8 @@ admin_filter=filters.create(is_admin)
 async def start(client, message):
     buttons = [
         [
-            InlineKeyboardButton('🐝 Join Here', url='https://t.me/honeybeemovies'),
-            InlineKeyboardButton('Updates 🎬', url='https://t.me/malluflix'),
+            InlineKeyboardButton(' Join Here 🥂', url='https://t.me/thefilmyspotin'),
+            InlineKeyboardButton('Admin 😼', url='https://t.me/AbHiNand3510'),
         ]
         
     ]
@@ -27,8 +27,8 @@ async def start(client, message):
 async def show_help(client, message):
     buttons = [
         [
-            InlineKeyboardButton('🐝 Join Here', url='https://t.me/honeybeemovies'),
-            InlineKeyboardButton('Updates 🎬', url='https://t.me/malluflix'),
+            InlineKeyboardButton('Join Here🥂', url='https://t.me/thefilmyspotin'),
+            InlineKeyboardButton('Admin😼', url='https://t.me/AbHiNand3510'),
         ]
         ]
     reply_markup = InlineKeyboardMarkup(buttons)
